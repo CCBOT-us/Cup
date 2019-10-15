@@ -3,6 +3,7 @@ var __apiKeys = [
 	'm782067687-1a84ed3c73099711e0a5855e', //Site 2
 	'm783580933-90763ad6b0313f896d40675b', //DEV
 	'm782067763-d7d74e1e374366dcf10cc952', //Api
+	'm783580933-90763ad6b0313f896d40675b', //ApiE
 ];
 
 // refresh interval (in seconds)
